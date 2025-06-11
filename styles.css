@@ -10,7 +10,7 @@ body {
     line-height: 1.6;
 }
 
-: :root {
+:root {
     --primary-color: #e4dced;
     --secondary-color: #6c9082;
     --accent-color: #ff4081;
@@ -31,7 +31,7 @@ nav ul {
     margin-top: 10px;
 }
 
-nav a: hover{
+nav a:hover{
     color: white;
   text-decoration: none;
   font-weight: bold;
@@ -53,9 +53,9 @@ section {
 
 footer {
   background-color: var(--secondary-color);
-  color: rgb(106, 188, 164); \ befr was whit/
+  color: rgb(106, 188, 164); 
   text-align: center;
-  padding: 30px 0; /befo WAS 15PX/
+  padding: 30px 0; 
 }
 
 
